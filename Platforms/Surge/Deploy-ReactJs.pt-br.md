@@ -18,4 +18,5 @@ Npm: npm build
     - `surge`
     - `{seu_email}`
     - `{sua_senha}` 
-    - `{seu_dominio}`
+	- `{path from project (folder of publish)}`
+    - `{seu_dominio (without http/https)}`
