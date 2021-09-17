@@ -52,4 +52,4 @@ Henrique Holtz, desenvolvedor de software. :v:
 
 - [Meu Github](https://github.com/henriqueholtz)
 - [Meu LinkedIn](https://www.linkedin.com/in/henrique-holtz/)
-- [Markdown do Artigo](https://github.com/henriqueholtz/MarkdownArticles)
+- [Markdown do Artigo](https://github.com/henriqueholtz/MarkdownArticles/blob/master/Backend/REST.pt-br.md)
